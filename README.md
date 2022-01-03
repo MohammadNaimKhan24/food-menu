@@ -1,13 +1,13 @@
-# all items
+# All Items
 ![all](https://user-images.githubusercontent.com/62251171/147932966-4c33a934-ec56-46fe-ad40-9f3cd2f5bbcd.png)
 
-# breakfast items
+# Breakfast Items
 ![breakfast](https://user-images.githubusercontent.com/62251171/147932982-3345d6e3-7410-4eed-9266-6c711ed44937.png)
 
-# lunch items
+# Lunch Items
 ![lunch](https://user-images.githubusercontent.com/62251171/147933000-07f8fa52-7ecb-4782-a885-bd1b7436c27d.png)
 
-# shakes items
+# Shakes Items
 ![shakes](https://user-images.githubusercontent.com/62251171/147933473-9005a284-60c4-4695-acf0-740042ed50e5.png)
 
 # FOOD MENU PROJECT DETAILS
